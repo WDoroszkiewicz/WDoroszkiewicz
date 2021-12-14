@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://app.daily.dev/WDoroszkiewicz"><img src="https://api.daily.dev/devcards/60c78dec891641b1a07397851a16a09d.png?r=q1i" width="400" alt="Wojciech Doroszkiewicz's Dev Card"/></a>
 <!--
 **WDoroszkiewicz/WDoroszkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
